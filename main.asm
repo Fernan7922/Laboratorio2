@@ -8,7 +8,7 @@
 ; Archivo    : Lab2.asm
 ; Dispositivo: ATmega328P (Arduino Nano)
 ; Frecuencia : 16 MHz
-; Anio       : 2024
+
 ;
 ; Descripcion:
 ;   Pre-Lab : Contador binario de 4 bits en LEDs,
